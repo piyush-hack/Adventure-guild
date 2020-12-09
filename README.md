@@ -1,2 +1,2 @@
 # Adventure-guild
-An app to put and accept request
+A site to put and accept request
